@@ -10,3 +10,7 @@ Varun Eranki, Akshay Sadanandan, Sayali Shelke, Manasi Shrotri
 https://highway-env.readthedocs.io/en/latest/index.html <br />
 https://github.com/eleurent/highway-env
 
+<p align="center">
+    <img src="../gh-media/docs/media/highway-env.gif?raw=true"><br/>
+    <em>An episode of one of the environments available in highway-env.</em>
+</p>
