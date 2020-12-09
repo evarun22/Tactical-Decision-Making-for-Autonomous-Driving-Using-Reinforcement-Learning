@@ -11,6 +11,6 @@ https://highway-env.readthedocs.io/en/latest/index.html <br />
 https://github.com/eleurent/highway-env
 
 <p align="center">
-    <img src="../gh-media/docs/media/highway-env.gif?raw=true"><br/>
+    <img src="https://raw.githubusercontent.com/eleurent/highway-env/gh-media/docs/media/highway-env.gif"><br/>
     <em>An episode of one of the environments available in highway-env.</em>
 </p>
