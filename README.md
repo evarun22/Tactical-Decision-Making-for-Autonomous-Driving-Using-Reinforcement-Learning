@@ -7,6 +7,6 @@ Using deep neural networks, it is possible to find and localize certain objects 
 Varun Eranki, Akshay Sadanandan, Sayali Shelke, Manasi Shrotri 
 
 ## Highway Environment
-https://highway-env.readthedocs.io/en/latest/index.html
+https://highway-env.readthedocs.io/en/latest/index.html <br />
 https://github.com/eleurent/highway-env
 
